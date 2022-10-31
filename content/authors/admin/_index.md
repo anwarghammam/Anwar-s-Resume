@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Anwar Ghammam
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Anwar
+last_name: Ghammam
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Oakland University
+    url: https://www.oakland.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -23,21 +23,23 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
+  - Intelligent software engineering 
   - Information Retrieval
+  - MultiObjetive optimization
+  - Refactoring
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer sience and Information
+      institution: Oakland University, Rochester, Michigan
+      year: 2021
+    - course: Masters in Software Engineering
+      institution: Oakland University, Rochester, Michigan
+      year: 2021
+    - course: BSc in Computer science
+      institution: National Institute of Applied science and technologies, Tunis, Tunisia
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -74,6 +76,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
+ #here I wrihgt my papers bio
 highlight_name: true
 ---
 
