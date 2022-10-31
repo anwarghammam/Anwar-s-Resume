@@ -25,8 +25,8 @@ feature:
     icon_pack: fab
     name: Java
   - description: 40%
-    icon: c++
-    icon_pack: fas
+    icon: "c++_Logo"
+    icon_pack: "custom"
     name: C++
   - description: 40%
     icon: sql
@@ -36,6 +36,11 @@ feature:
     icon: git
     icon_pack: fas
     name: Git
+    
+  #- icon: "your-custom-icon-name"
+#  icon_pack: "custom"
+#  name: "Surfing"
+#  description: "90%"
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
@@ -46,8 +51,5 @@ feature:
 # Place your custom SVG icon in `assets/media/icons/`.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 # For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
+
 ---
