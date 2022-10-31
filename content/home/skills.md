@@ -25,8 +25,8 @@ feature:
     icon_pack: fab
     name: Java
   - description: 40%
-    icon: C++_Logo
-    icon_pack: custom
+    icon: "c"
+    icon_pack: "custom"
     name: C++
   - description: 40%
     icon: sql
