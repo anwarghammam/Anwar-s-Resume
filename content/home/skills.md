@@ -24,10 +24,18 @@ feature:
     icon: java
     icon_pack: fab
     name: Java
-  - description: 10%
-    icon: camera-retro
+  - description: 40%
+    icon: c++
     icon_pack: fas
-    name: Photography
+    name: C++
+  - description: 40%
+    icon: sql
+    icon_pack: fas
+    name: SQL & NoSQL
+  - description: 70%
+    icon: git
+    icon_pack: fas
+    name: Git
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
