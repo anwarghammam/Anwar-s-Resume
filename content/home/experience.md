@@ -36,17 +36,4 @@ experience:
         * Working under the supervision of Dr.Marouane Kessentini
         * Woring on publications
 
-  - title: Graduate Student Instructor
-    company: Oakland University
-    company_url: 'oakland.edu'
-    company_logo: org-gc
-    location: Rochester, Michigan, USA
-    date_start: '2022-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Teaching labs: Undergraduate: CIS 376 Software Engineering.
-
-  columns: '2'
----
+  
