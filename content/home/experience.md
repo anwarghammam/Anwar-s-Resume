@@ -47,6 +47,17 @@ experience:
         Responsibilities include:
         
         * Teaching labs: Undergraduate: CIS 376 Software Engineering.
+  - title: NSF Intern
+    company: Instadeep
+    company_url: 'instadeep.com'
+    company_logo: Instadeep
+    location: Boston, USA
+    date_start: '2022-06-05'
+    date_end: '2022-09-05'
+    description: |2-
+        Responsibilities include:
+        
+        * Working on a multiobjective PCB grid using Reinforcement learning.
 
 design:
   columns: '2'
