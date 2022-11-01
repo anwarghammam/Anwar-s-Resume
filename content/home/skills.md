@@ -33,8 +33,8 @@ feature:
     icon_pack: fas
     name: SQL & NoSQL
   - description: 70%
-    icon: git-alt
-    icon_pack: fas
+    icon: "Git"
+    icon_pack: "custom"
     name: Git
     
   #- icon: "your-custom-icon-name"
