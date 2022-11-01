@@ -35,12 +35,12 @@ feature:
   - description: 70%
     icon: "Git"
     icon_pack: "custom"
-    name: Git
+    name: "Git"
  - description: 70%
     icon: "datascience"
     icon_pack: "custom"
-    name: Data Science
-  #- icon: "your-custom-icon-name"
+    name: "Data Science"
+#- icon: "your-custom-icon-name"
 #  icon_pack: "custom"
 #  name: "Surfing"
 #  description: "90%"
