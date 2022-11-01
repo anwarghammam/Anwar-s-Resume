@@ -27,7 +27,7 @@ feature:
   - description: 40%
     icon: "c"
     icon_pack: "custom"
-    name: C++
+    name: "C++"
   - description: 40%
     icon: database
     icon_pack: fas
