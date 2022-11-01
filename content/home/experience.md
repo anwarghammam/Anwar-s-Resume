@@ -46,7 +46,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Teaching labs: Undergraduate: CIS 376 Software Engineering II.
+        * Teaching labs: Undergraduate: CIS 376 Software Engineering.
 
   columns: '2'
 ---
