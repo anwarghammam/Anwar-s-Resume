@@ -35,5 +35,8 @@ experience:
         * Using artificial Intelligence and Machine learning in software engineering projects
         * Working under the supervision of Dr.Marouane Kessentini
         * Woring on publications
+ 
 
-  
+ design:
+  columns: '2'
+---
