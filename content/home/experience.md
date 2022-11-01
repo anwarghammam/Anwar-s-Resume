@@ -25,7 +25,7 @@ experience:
   - title: Graduate Student Research Assistant
     company: Oakland University
     company_url: 'oakland.edu'
-    company_logo: org-gc
+    company_logo: oakland
     location: Rochester, Michigan, USA
     date_start: '2021-09-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Graduate Student Instructor
     company: Oakland University
     company_url: 'oakland.edu'
-    company_logo: org-gc
+    company_logo: oakland
     location: Rochester, Michigan, USA
     date_start: '2022-01-05'
     date_end: ''
