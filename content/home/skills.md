@@ -29,11 +29,11 @@ feature:
     icon_pack: "custom"
     name: C++
   - description: 40%
-    icon: sql
+    icon: database
     icon_pack: fas
     name: SQL & NoSQL
   - description: 70%
-    icon: git
+    icon: git-alt
     icon_pack: fas
     name: Git
     
