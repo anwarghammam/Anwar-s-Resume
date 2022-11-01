@@ -36,7 +36,7 @@ feature:
     icon: "Git"
     icon_pack: "custom"
     name: "Git"
- - description: 70%
+  - description: 70%
     icon: "datascience"
     icon_pack: "custom"
     name: "Data Science"
