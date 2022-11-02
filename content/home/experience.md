@@ -83,6 +83,27 @@ experience:
         
         * working on a cv analyzer: automatic extraction of information in the resume using Entity Recognition in NLP and preselection of the appropriate resumes to a post description (using TFIDF)
         
+   - title: Student Researcher in Artificial Intelligence
+    company: ISE Lab - University of Michigan - Dearborn & INSAT
+    company_logo: insat
+    location: Tunis , Tunisia
+    date_start: '2020-03-01'
+    date_end: '2020-06-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Building and training machine learning models to predict the effect of code refactoring on code smells and the number of bugs in software with error <5%   
+        
+   - title: SAP technical support engineer
+    company: Focus Corporation
+    company_logo: focus
+    location: Tunis , Tunisia
+    date_start: '2019-03-01'
+    date_end: '2019-08-01'
+    description: |2-
+        Responsibilities include:
+        
+      
 design:
   columns: '2'
 ---
