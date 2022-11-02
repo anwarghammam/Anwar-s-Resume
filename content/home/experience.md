@@ -59,6 +59,30 @@ experience:
         
         * Working on a multiobjective PCB grid using Reinforcement learning.
 
+   - title: Research Assistant
+    company: Intelligent Software Engineering Lab - University of Michigan - Dearborn
+    company_logo: ISE
+    location: Dearborn, Michigan, USA
+    date_start: '2021-01-01'
+    date_end: '2022-06-06'
+    description: |2-
+        Responsibilities include:
+        
+        * Working on a Dynamic workload balancer for software containers in FORD smart and connected vehicles using Multi-Objective optimization Algorithms.
+         Work accomplished under the supervision of Dr. Marouane Kessentini (kessentini@oakland.edu) in a collaboration with Ford Motor Company .
+
+
+   - title: Artificial Intelligence Intern
+    company: Smart Team
+    company_logo: smartteam
+    location: North urban center , Tunisia
+    date_start: '2020-05-01'
+    date_end: '2020-06-01'
+    description: |2-
+        Responsibilities include:
+        
+        * working on a cv analyzer: automatic extraction of information in the resume using Entity Recognition in NLP and preselection of the appropriate resumes to a post description (using TFIDF)
+        
 design:
   columns: '2'
 ---
