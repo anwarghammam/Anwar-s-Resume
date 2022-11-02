@@ -59,7 +59,7 @@ experience:
         
         * Working on a multiobjective PCB grid using Reinforcement learning.
 
-   - title: Research Assistant
+  - title: Research Assistant
     company: Intelligent Software Engineering Lab - University of Michigan - Dearborn
     company_logo: ISE
     location: Dearborn, Michigan, USA
@@ -72,7 +72,7 @@ experience:
          Work accomplished under the supervision of Dr. Marouane Kessentini (kessentini@oakland.edu) in a collaboration with Ford Motor Company .
 
 
-   - title: Artificial Intelligence Intern
+  - title: Artificial Intelligence Intern
     company: Smart Team
     company_logo: smartteam
     location: North urban center , Tunisia
@@ -83,7 +83,7 @@ experience:
         
         * working on a cv analyzer: automatic extraction of information in the resume using Entity Recognition in NLP and preselection of the appropriate resumes to a post description (using TFIDF)
         
-   - title: Student Researcher in Artificial Intelligence
+  - title: Student Researcher in Artificial Intelligence
     company: ISE Lab - University of Michigan - Dearborn & INSAT
     company_logo: insat
     location: Tunis , Tunisia
@@ -94,7 +94,7 @@ experience:
         
         * Building and training machine learning models to predict the effect of code refactoring on code smells and the number of bugs in software with error <5%   
         
-   - title: SAP technical support engineer
+  - title: SAP technical support engineer
     company: Focus Corporation
     company_logo: focus
     location: Tunis , Tunisia
