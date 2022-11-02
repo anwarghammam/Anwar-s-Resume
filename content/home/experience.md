@@ -100,8 +100,7 @@ experience:
     location: Tunis , Tunisia
     date_start: '2019-03-01'
     date_end: '2019-08-01'
-    description: |2-
-        Responsibilities include:
+    
         
       
 design:
