@@ -74,7 +74,7 @@ experience:
 
   - title: Artificial Intelligence Intern
     company: Smart Team
-    company_logo: smartteam
+    company_logo: smart-team
     location: North urban center , Tunisia
     date_start: '2020-05-01'
     date_end: '2020-06-01'
