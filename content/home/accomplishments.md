@@ -26,7 +26,7 @@ date_format: Jan 2006
 
 item:
 
-  - certificate_url: 'static/uploads/toefl'
+  - certificate_url: 'static/uploads/award'
     date_end: ''
     date_start: '2020-12-12'
     description: 'Reading: 21/30, Listening 22/30, Speaking: 25/30, Writing: 24/30'
