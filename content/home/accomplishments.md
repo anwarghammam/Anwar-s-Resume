@@ -26,13 +26,26 @@ date_format: Jan 2006
 
 item:
 
-  - certificate_url: 'static/uploads/award'
+  - certificate_url: 'static/uploads/resume'
     date_end: ''
     date_start: '2020-12-12'
     description: 'Reading: 21/30, Listening 22/30, Speaking: 25/30, Writing: 24/30'
     organization: ETS
     organization_url: https://www.ets.org
     title: 'TOEFL iBT: 92/120'
+    url: ''
+    
+item:
+
+  - certificate_url: 'static/uploads/award'
+    date_end: ''
+    date_start: '2022-29-10'
+    description: 'received the most industry ready research award among a lot of great
+projects presented by CU Boulder university, Oregon State university and
+Oakland University'
+    organization: NSF industry university Center on Pervasive AI event
+    organization_url: https://beta.nsf.gov/events/industry-university-cooperative-research-center/2022-11-14
+    title: 'NSF industry university Center on Pervasive AI event'
     url: ''
 
 design:
