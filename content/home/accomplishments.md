@@ -39,7 +39,7 @@ item:
 
   - certificate_url: 'static/uploads/award'
     date_end: ''
-    date_start: '2022-29-10'
+    date_start: '2022-10-29'
     description: 'received the most industry ready research award among a lot of great
 projects presented by CU Boulder university, Oregon State university and
 Oakland University'
