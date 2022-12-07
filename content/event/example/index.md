@@ -1,19 +1,19 @@
 ---
-title: Example Talk
+title: ASE 2022
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Automated Software Engineering 
+event_url: https://conf.researchr.org/home/ase-2022
 
-location: Wowchemy HQ
+location: Oakland University
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 312 Meadow Brook Road Oakland Center
+  city: Rochester
+  region: MI
+  postcode: '48309'
   country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: The 37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022) was held at Oakland Center (OC), MI, USA.
+abstract: 'Volunteer and Committee Member'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
