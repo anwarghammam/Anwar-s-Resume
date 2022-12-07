@@ -26,7 +26,7 @@ date_format: Jan 2006
 
 item:
 
-  - certificate_url: 'static/uploads/AWARD.pdf'
+  - certificate_url: 'uploads/AWARD.pdf'
     date_end: ''
     date_start: '2022-10-26'
     description: 'received the most industry ready research award among a lot of great projects presented by CU Boulder university, Oregon State university     and Oakland University'
@@ -45,32 +45,16 @@ item:
     url: 'uploads/toefl'
     
   
-  - certificate_url: 'static/uploads/resume'
+  - certificate_url: 'https://www.coursera.org/account/accomplishments/verify/56BRB2YJNZWU'
     date_end: ''
-    date_start: '2020-12-12'
-    description: 'Reading: 21/30, Listening 22/30, Speaking: 25/30, Writing: 24/30'
-    organization: ETS
-    organization_url: https://www.ets.org
-    title: 'TOEFL iBT: 92/120'
+    date_start: '2020-8-10'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: 'Natural Language Processing with Classification and Vector Spaces'
     url: ''
     
-  - certificate_url: 'static/uploads/resume'
-    date_end: ''
-    date_start: '2020-12-12'
-    description: 'Reading: 21/30, Listening 22/30, Speaking: 25/30, Writing: 24/30'
-    organization: ETS
-    organization_url: https://www.ets.org
-    title: 'TOEFL iBT: 92/120'
-    url: ''
   
-  - certificate_url: 'static/uploads/resume'
-    date_end: ''
-    date_start: '2020-12-12'
-    description: 'Reading: 21/30, Listening 22/30, Speaking: 25/30, Writing: 24/30'
-    organization: ETS
-    organization_url: https://www.ets.org
-    title: 'TOEFL iBT: 92/120'
-    url: ''
 design:
   columns: '2'
 ---
