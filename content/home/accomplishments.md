@@ -47,7 +47,7 @@ item:
   
   - certificate_url: 'https://www.coursera.org/account/accomplishments/verify/56BRB2YJNZWU'
     date_end: ''
-    date_start: '2020-8-10'
+    date_start: '2020-08-10'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
