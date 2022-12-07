@@ -40,7 +40,7 @@ item:
     date_start: '2020-12-12'
     description: 'Reading: 21/30, Listening 22/30, Speaking: 25/30, Writing: 24/30'
     organization: ETS
-    organization_url: https://www.ets.org
+    organization_url: https://www.ets.org/
     title: 'TOEFL iBT: 92/120'
     url: 'uploads/toefl'
     
