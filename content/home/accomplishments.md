@@ -54,6 +54,58 @@ item:
     title: 'Natural Language Processing with Classification and Vector Spaces'
     url: ''
     
+  - certificate_url: 'https://www.coursera.org/account/accomplishments/verify/7WUXGWWJB7XN'
+    date_end: ''
+    date_start: '2020-05-06'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: 'Sequence Models'
+    url: ''
+    
+  - certificate_url: 'https://www.coursera.org/account/accomplishments/verify/98ZRR42KBBN6'
+    date_end: ''
+    date_start: '2020-04-06'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: 'Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization'
+    url: ''
+    
+  - certificate_url: 'https://www.coursera.org/account/accomplishments/verify/7A3ZM9UMWEEQ'
+    date_end: ''
+    date_start: '2020-04-21'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: 'Convolutional Neural Networks'
+    url: ''
+    
+  - certificate_url: 'https://www.coursera.org/account/accomplishments/verify/8M5K697CPPCM'
+    date_end: ''
+    date_start: '2020-06-07'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: 'Classify Radio Signals from Space using Keras'
+    url: ''
+  - certificate_url: 'https://www.coursera.org/account/accomplishments/verify/J79R54DY2L79'
+    date_end: ''
+    date_start: '2020-05-20'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: 'Natural Language Processing in TensorFlow'
+    url: ''
+  
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2020-06-26'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.udacity.com/
+    title: 'Intro to Deep Learning with PyTorch'
+    url: ''
   
 design:
   columns: '2'
