@@ -34,6 +34,7 @@ item:
     organization_url: https://beta.nsf.gov/events/industry-university-cooperative-research-center/2022-11-14
     title: 'NSF industry university Center on Pervasive AI event'
     url: ''
+    
 item:
 
   - certificate_url: 'static/uploads/award'
@@ -44,8 +45,6 @@ item:
     organization_url: https://beta.nsf.gov/events/industry-university-cooperative-research-center/2022-11-14
     title: 'NSF industry university Center on Pervasive AI event'
     url: ''
-    
-item:
 
   - certificate_url: 'static/uploads/resume'
     date_end: ''
