@@ -42,7 +42,7 @@ item:
     organization: ETS
     organization_url: https://www.ets.org
     title: 'TOEFL iBT: 92/120'
-    url: ''
+    url: 'uploads/toefl'
     
   
   - certificate_url: 'static/uploads/resume'
