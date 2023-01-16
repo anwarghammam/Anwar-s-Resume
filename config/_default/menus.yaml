@@ -10,14 +10,14 @@ main:
   - name: Experience
     url: '#Experience'
     weight: 20
-  - name: Projects
-    url: '#projects'
+  - name: Accomplishmnets
+    url: '#accomplishmnets'
     weight: 30
-  - name: Talks
-    url: '#talks'
+  - name: Workshops & Conferences
+    url: '#Workshops&Conferences'
     weight: 40
   - name: Publications
-    url: '#featured'
+    url: '#publications'
     weight: 50
   - name: Contact
     url: '#contact'
