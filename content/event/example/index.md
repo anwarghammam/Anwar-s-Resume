@@ -15,6 +15,9 @@ address:
 summary: The 37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022) was held at Oakland Center (OC), MI, USA.
 
 
+date: '2022-09-10T13:00:00Z'
+date_end: '2022-09-14T15:00:00Z'
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 
