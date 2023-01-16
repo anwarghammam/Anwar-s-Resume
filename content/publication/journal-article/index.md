@@ -39,7 +39,7 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''
-url_project: 'http://anwarghammam.github.io/ContainersSchedulingWebSite/'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
