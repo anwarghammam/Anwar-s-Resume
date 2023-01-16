@@ -14,7 +14,6 @@ address:
 
 summary: The  NSF industry university Center on Pervasive AI event was held at Portland, OR, USA organized by Orogeon State university in collaboration with CU Boulder university and Oakland University.
 
-summary: The 37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022) was held at Oakland Center (OC), MI, USA.
 Contribution: 'I presented my recent work titled '
 
 Reward: I was honored to receive the most industry ready research award among a lot of great projects presented by CU Boulder university, Orogeon State university and Oakland University. To more achievements !
