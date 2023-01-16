@@ -36,7 +36,7 @@ featured: false
 # - name: ""
 # url: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: 'https://anwarghammam.github.io/ContainersSchedulingWebSite/'
 # url_poster: ''
 # url_project: ''
