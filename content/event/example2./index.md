@@ -1,6 +1,6 @@
 ---
 title: NSF industry university Center on Pervasive AI event
-event: 
+
 
 location: Oakland University
 
