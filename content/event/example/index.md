@@ -19,11 +19,11 @@ date: '2022-10-10T13:00:00Z'
 date_end: '2022-10-14T15:00:00Z'
 
 
-
+---
 
 title: NSF industry university Center on Pervasive AI event
 
-event:NSF industry university Center on Pervasive AI event
+event: NSF industry university Center on Pervasive AI event
 
 
 location: Portland, Oregan, USA
