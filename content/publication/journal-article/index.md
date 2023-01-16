@@ -1,11 +1,12 @@
 ---
-title: "An example journal article"
+title: "Dynamic Software Containers Workload Balancing via Many-Objective Search"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- Thiago Ferreira
+-  Wajdi Aljedaani
+-  Marouane Kessentini
+
+
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
@@ -33,7 +34,7 @@ featured: false
 
 # links:
 # - name: ""
-#   url: ""
+url: "https://anwarghammam.github.io/ContainersSchedulingWebSite/"
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
