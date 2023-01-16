@@ -1,22 +1,21 @@
 ---
-title: ASE 2022
+title: NSF industry university Center on Pervasive AI event
 
-event: Automated Software Engineering 
-event_url: https://conf.researchr.org/home/ase-2022
+event: NSF industry university Center on Pervasive AI event 
+
 
 location: Oakland University
+
 address:
-  street: 312 Meadow Brook Road Oakland Center
-  city: Rochester
-  region: MI
-  postcode: '48309'
+  
+  city: Portland
+  region: Oregan
   country: United States
 
-summary: The 37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022) was held at Oakland Center (OC), MI, USA.
+summary: The  NSF industry university Center on Pervasive AI event was held at Portland, OR, USA organized by Orogeon State university in collaboration with CU Boulder university and Oakland University.
 
-
-date: '2022-10-10T13:00:00Z'
-date_end: '2022-10-14T15:00:00Z'
+date: '2022-10-26T13:00:00Z'
+date_end: '2022-10-28T15:00:00Z'
 
 
 ---
