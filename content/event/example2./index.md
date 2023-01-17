@@ -2,7 +2,7 @@
 title: NSF industry university Center on Pervasive AI event
 
 
-location: Oakland University
+location: Portland, USA
 
 address:
   
