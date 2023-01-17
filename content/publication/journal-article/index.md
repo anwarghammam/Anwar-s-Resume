@@ -23,7 +23,8 @@ publication_types: ["2"]
 publication: "IEEE TRANSACTIONS ON SERVICES COMPUTING"
 publication_short: ""
 
-abstract: Software containers are becoming the new state of the art in the industry as they are extensively used to deploy systems. Indeed,
+abstract: 
+Software containers are becoming the new state of the art in the industry as they are extensively used to deploy systems. Indeed,
 the use of containers enables better modularity, reusability, and portability compared to other technologies. As the complexity of software
 systems is dramatically increasing, it is critical to enable optimal usage of the needed resources to execute them such as memory and CPU.
 Thus, different scheduling strategies are proposed to select the most suitable nodes to execute a set of containers. For instance, the default
