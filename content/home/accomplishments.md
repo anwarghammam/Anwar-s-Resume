@@ -31,7 +31,7 @@ item:
     date_start: '2022-10-26'
     description: 'received the most industry ready research award among a lot of great projects presented by CU Boulder university, Oregon State university     and Oakland University'
     organization: NSF industry university Center on Pervasive AI event
-    organization_url: [https://beta.nsf.gov/funding/opportunities/industry-university-cooperative-research-centers-0](https://www.nsf.gov/)
+    organization_url: '[https://beta.nsf.gov/funding/opportunities/industry-university-cooperative-research-centers-0](https://www.nsf.gov/)'
     
     title: 'NSF industry university Center on Pervasive AI event'
     url: ''
@@ -41,7 +41,7 @@ item:
     date_start: '2020-12-12'
     description: 'Reading: 21/30, Listening 22/30, Speaking: 25/30, Writing: 24/30'
     organization: ETS
-    organization_url: [https://www.ets.org/](https://www.ets.org/)
+    organization_url: '[https://www.ets.org/](https://www.ets.org/)'
     title: 'TOEFL iBT: 92/120'
     url: 'uploads/toefl'
     
