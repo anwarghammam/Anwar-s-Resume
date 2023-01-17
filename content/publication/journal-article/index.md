@@ -30,12 +30,7 @@ Thus, different scheduling strategies are proposed to select the most suitable n
 strategy in the Docker Swarm kit scheduling framework is based on an equal distribution of the containers between nodes independent of
 their sizes and consumed resources. However, balancing the containers’ workload is a complex problem due to the conflicting objectives of
 minimizing the number of selected nodes, minimizing the number of containers per node, the number of changes compared to the original
-schedule, and the coupling between containers allocated to different nodes.
-To deal with those conflicting scheduling objectives, we propose a scheduler based on a many-objective optimization approach for scheduling
-the execution of containers between multiple nodes. The proposed approach aims at finding the best allocation for containers in nodes that
-leads to efficient utilization of resources. To evaluate our approach, we compared the performance of multiple many and multi-objective
-techniques based on NSGA-II, NSGA-III, and IBEA algorithms using 48 Docker-related systems and the results show that NSGA-III
-outperforms the other algorithms in quality attributes as well as in CPU, Memory and Network usage
+schedule, and the coupling between containers allocated to different nodes. To deal with those conflicting scheduling objectives, we propose a scheduler based on a many-objective optimization approach for scheduling the execution of containers between multiple nodes. The proposed approach aims at finding the best allocation for containers in nodes that leads to efficient utilization of resources. To evaluate our approach, we compared the performance of multiple many and multi-objective techniques based on NSGA-II, NSGA-III, and IBEA algorithms using 48 Docker-related systems and the results show that NSGA-III outperforms the other algorithms in quality attributes as well as in CPU, Memory and Network usage.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
