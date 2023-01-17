@@ -18,7 +18,7 @@ organizations:
     url: https://www.oakland.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include artificial intelligence, machine learning, web services, refactoring, data analytics, and software quality.  
 
 # Interests to show in About widget
 interests:
