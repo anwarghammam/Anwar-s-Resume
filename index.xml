@@ -1,14 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anwar Ghammam</title><link>https://anwarghammam.github.io/</link><atom:link href="https://anwarghammam.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Anwar Ghammam</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate><image><url>https://anwarghammam.github.io/media/icon_hueb57cff1e0ba5753ebb4d681ebe4b521_7038_512x512_fill_lanczos_center_3.png</url><title>Anwar Ghammam</title><link>https://anwarghammam.github.io/</link></image><item><title>Dynamic Software Containers Workload Balancing via Many-Objective Search</title><link>https://anwarghammam.github.io/publication/journal-article/</link><pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate><guid>https://anwarghammam.github.io/publication/journal-article/</guid><description>&lt;div class="alert alert-note">
-&lt;div>
-Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-&lt;/div>
-&lt;/div>
-&lt;div class="alert alert-note">
-&lt;div>
-Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
-&lt;/div>
-&lt;/div>
-&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>NSF industry university Center on Pervasive AI event</title><link>https://anwarghammam.github.io/talk/nsf-industry-university-center-on-pervasive-ai-event/</link><pubDate>Wed, 26 Oct 2022 13:00:00 +0000</pubDate><guid>https://anwarghammam.github.io/talk/nsf-industry-university-center-on-pervasive-ai-event/</guid><description/></item><item><title>ASE 2022</title><link>https://anwarghammam.github.io/talk/ase-2022/</link><pubDate>Mon, 10 Oct 2022 13:00:00 +0000</pubDate><guid>https://anwarghammam.github.io/talk/ase-2022/</guid><description/></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://anwarghammam.github.io/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://anwarghammam.github.io/post/getting-started/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">libr&lt;/span>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anwar Ghammam</title><link>https://anwarghammam.github.io/</link><atom:link href="https://anwarghammam.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Anwar Ghammam</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate><image><url>https://anwarghammam.github.io/media/icon_hueb57cff1e0ba5753ebb4d681ebe4b521_7038_512x512_fill_lanczos_center_3.png</url><title>Anwar Ghammam</title><link>https://anwarghammam.github.io/</link></image><item><title>Dynamic Software Containers Workload Balancing via Many-Objective Search</title><link>https://anwarghammam.github.io/publication/journal-article/</link><pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate><guid>https://anwarghammam.github.io/publication/journal-article/</guid><description/></item><item><title>NSF industry university Center on Pervasive AI event</title><link>https://anwarghammam.github.io/talk/nsf-industry-university-center-on-pervasive-ai-event/</link><pubDate>Wed, 26 Oct 2022 13:00:00 +0000</pubDate><guid>https://anwarghammam.github.io/talk/nsf-industry-university-center-on-pervasive-ai-event/</guid><description/></item><item><title>ASE 2022</title><link>https://anwarghammam.github.io/talk/ase-2022/</link><pubDate>Mon, 10 Oct 2022 13:00:00 +0000</pubDate><guid>https://anwarghammam.github.io/talk/ase-2022/</guid><description/></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://anwarghammam.github.io/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://anwarghammam.github.io/post/getting-started/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">libr&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;hello&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;ol>
@@ -155,7 +145,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-348569712" class="chart">&lt;/div>
+&lt;div id="chart-128367459" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -164,7 +154,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-348569712', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-128367459', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
