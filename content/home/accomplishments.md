@@ -31,7 +31,7 @@ item:
     date_start: '2022-10-26'
     description: 'received the most industry ready research award among a lot of great projects presented by CU Boulder university, Oregon State university     and Oakland University'
     organization: NSF industry university Center on Pervasive AI event
-    organization_url: https://beta.nsf.gov/   
+    organization_url: https://beta.nsf.gov/funding/opportunities/industry-university-cooperative-research-centers-0 
     title: 'NSF industry university Center on Pervasive AI event'
     url: ''
 
