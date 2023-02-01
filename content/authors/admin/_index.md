@@ -82,4 +82,4 @@ highlight_name: true
 
 Anwar Ghammam is currently a PhD student Oakland university. Her PhD project is concerned with the application of intelligent search and machine learning in different areas such as Software Containers, web services, refactoring, and mobile app reviews. Her current research interests are AI, web services, refactoring, data analytics, and software quality.  
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Anwar_Ghammam.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Anwar_Ghammam.pdf" "newtab" >}}RESUME{{< /staticref >}}.
