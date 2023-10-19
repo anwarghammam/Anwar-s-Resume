@@ -10,7 +10,7 @@ last_name: Ghammam
 superuser: true
 
 # Role/position/tagline
-role: Ph.D Candidate 
+role: Ph.D. Candidate 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -81,6 +81,6 @@ email: 'anwarghammam@oakland.edu'
 highlight_name: true
 ---
 
-Anwar Ghammam is currently a PhD student Oakland university. Her PhD project is concerned with the application of intelligent search and machine learning in different areas such as Software Containers, web services, refactoring, and mobile app reviews. Her current research interests are AI, web services, refactoring, data analytics, and software quality.  
+Anwar Ghammam is currently a Ph.D. candidate at Oakland University. Her Ph.D. project is concerned with applying intelligent software engineering and machine learning in different areas such as software containers, web services, refactoring, and mobile app reviews. Her research interests are AI, DL, Refactoring, Data Analytics, and Software Quality.  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Anwar_Ghammam.pdf" "newtab" >}}RESUME{{< /staticref >}}.
