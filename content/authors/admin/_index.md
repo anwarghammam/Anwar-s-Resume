@@ -10,12 +10,12 @@ last_name: Ghammam
 superuser: true
 
 # Role/position/tagline
-role: PhD student 
+role: Ph.D Candidate 
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Oakland University
-    url: https://www.oakland.edu/
+    URL: https://www.oakland.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include artificial intelligence, machine learning, web services, refactoring, data analytics, and software quality.  
@@ -27,11 +27,12 @@ interests:
   - Information Retrieval
   - MultiObjetive optimization
   - Refactoring
+    
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer sience and Information
+    - course: Ph.D. in Computer Science and Information
       institution: Oakland University, Rochester, Michigan
       year: 2021
     - course: Masters in Software Engineering
