@@ -72,7 +72,7 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/Cv_Anwar_Ghammam.pdf
+#   link: uploads/Anwar_Ghammam (1).pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'anwarghammam@oakland.edu'
