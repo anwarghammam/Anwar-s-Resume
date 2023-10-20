@@ -26,10 +26,10 @@ date_format: Jan 2006
 
 item:
 
-- certificate_url: ''
+  - certificate_url: ''
     date_end: ''
     date_start: '2023-10-15'
-    description: 'Our team received NSF funds and was selected to attend the National I-Corps NSF.'
+    description: 'Our team received NSF funds and was selected to attend the National I-Corps NSF'
     organization: NSF
     organization_url: https://new.nsf.gov/funding/initiatives/i-corps
     title: 'NSF I-Corps Program'
