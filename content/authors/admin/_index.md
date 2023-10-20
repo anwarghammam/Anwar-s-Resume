@@ -23,9 +23,10 @@ bio: My research interests include artificial intelligence, machine learning, we
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
+  - Deep Learning
   - Intelligent software engineering 
   - Information Retrieval
-  - MultiObjetive optimization
+  - Multiobjective optimization
   - Refactoring
     
 
