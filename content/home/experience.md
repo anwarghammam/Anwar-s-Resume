@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Graduate Student Research Assistant
+  - title: Research Assistant
     company: Oakland University
     company_url: 'oakland.edu'
     company_logo: oakland
@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Using artificial Intelligence and Machine learning in software engineering projects
-        * Working under the supervision of Dr.Marouane Kessentini
-        * Woring on publications
+        * Apply intelligent search and machine learning in different areas such as Software Containers, web services, refactoring, and software quality.
+        * Work under the supervision of Dr. Marouane Kessentini (kessentini@oakland.edu)
+
 
   - title: Graduate Student Instructor
     company: Oakland University
@@ -45,8 +45,8 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        
-        * Teaching labs: Undergraduate: CIS 376 Software Engineering.
+        * Assist teachers with lesson preparation, curriculum implementation, teaching, and student mentoring.
+        * Teaching labs: Undergraduate: Software Engineering, Game Design, and Human-Computer Interaction (HCI).
   - title: NSF Intern
     company: Instadeep
     company_url: 'instadeep.com'
@@ -68,25 +68,25 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Working on a Dynamic workload balancer for software containers in FORD smart and connected vehicles using Multi-Objective optimization Algorithms.
-         Work accomplished under the supervision of Dr. Marouane Kessentini (kessentini@oakland.edu) in a collaboration with Ford Motor Company .
+        * Working on a Dynamic workload balancer for software containers in FORD smart and connected vehicles using Multi-Objective Optimization Algorithms.
+         Work accomplished under the supervision of Dr. Marouane Kessentini (kessentini@oakland.edu) in collaboration with Ford Motor Company.
 
 
   - title: Artificial Intelligence Intern
     company: Smart Team
     company_logo: smart-team
-    location: North urban center , Tunisia
+    location: North urban center, Tunisia
     date_start: '2020-05-01'
     date_end: '2020-06-01'
     description: |2-
         Responsibilities include:
         
-        * working on a cv analyzer: automatic extraction of information in the resume using Entity Recognition in NLP and preselection of the appropriate resumes to a post description (using TFIDF)
+        * working on a CV analyzer: automatic extraction of information in the resume using Entity Recognition in NLP and preselection of the appropriate resumes to a post description (using TFIDF)
         
   - title: Student Researcher in Artificial Intelligence
     company: ISE Lab - University of Michigan - Dearborn & INSAT
     company_logo: insat
-    location: Tunis , Tunisia
+    location: Tunis, Tunisia
     date_start: '2020-03-01'
     date_end: '2020-06-01'
     description: |2-
@@ -97,7 +97,7 @@ experience:
   - title: SAP technical support engineer
     company: Focus Corporation
     company_logo: focus
-    location: Tunis , Tunisia
+    location: Tunis, Tunisia
     date_start: '2019-03-01'
     date_end: '2019-08-01'
     
