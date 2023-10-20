@@ -13,7 +13,7 @@ address:
   country: United States
 
 summary: The 37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022) was held at Oakland Center (OC), MI, USA.
-
+Role: Committe Member (Web Chair)
 
 date: '2022-10-10T13:00:00Z'
 date_end: '2022-10-14T15:00:00Z'
