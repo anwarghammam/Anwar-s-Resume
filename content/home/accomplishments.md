@@ -26,13 +26,22 @@ date_format: Jan 2006
 
 item:
 
-  - certificate_url: 'uploads/AWARD.pdf'
+- certificate_url: ''
     date_end: ''
-    date_start: '2022-10-26'
-    description: 'received the most industry ready research award among a lot of great projects presented by CU Boulder university, Oregon State university     and Oakland University'
-    organization: NSF industry university Center on Pervasive AI event
-    organization_url: https://beta.nsf.gov/funding/opportunities/industry-university-cooperative-research-centers-0 
-    title: 'NSF industry university Center on Pervasive AI event'
+    date_start: '2023-10-15'
+    description: 'Our team received NSF funds and was selected to attend the National I-Corps NSF.'
+    organization: NSF
+    organization_url: https://new.nsf.gov/funding/initiatives/i-corps
+    title: 'NSF I-Corps Program'
+    url: ''
+
+  - certificate_url: 'uploads/REWARD2.pdf'
+    date_end: ''
+    date_start: '2023-04-19'
+    description: 'Received the Best Research Quality/Presentation Award'
+    organization: Oakland University
+    organization_url: https://oakland.edu/
+    title: '2022-2023 CSE Graduate Research Competition'
     url: ''
 
   - certificate_url: 'uploads/toefl.pdf'
