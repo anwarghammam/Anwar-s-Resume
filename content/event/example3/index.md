@@ -1,5 +1,5 @@
 ---
-title: NSF industry university Center on Pervasive AI event
+title: NSF Industry-University Center on Pervasive AI event
 
 
 location: Colorado, USA
@@ -10,16 +10,16 @@ address:
   region: Colorado
   country: United States
 
-summary: The  NSF industry university Center on Pervasive AI event was held at Boulder, Colorado organized by University of Colorado-Boulder in collaboration with Oregan State University and Oakland University.
+summary: The  NSF Industry-university Center on Pervasive AI event was held in Boulder, Colorado organized by the University of Colorado-Boulder in collaboration with Oregon State University and Oakland University.
 
 
-abstract: It was an honor to attend the NSF Industry University Center on Pervasive AI's industry advisory board event in Colorado, where I had the opportunity to present my research work on "Context-based Refactoring: About the relation between Context and refactoring". [![Watch the video](./1.jpeg)](https://youtu.be/InJrm7rC9S4)
+abstract: It was an honor to attend the NSF Industry-University Center on Pervasive AI's industry advisory board event in Colorado, where I had the opportunity to present my research work on "Context-based Refactoring: About the relation between Context and refactoring". [![Watch the video](./1.jpeg)](https://youtu.be/InJrm7rC9S4)
 
 
 
 
-date: '2022-10-26T13:00:00Z'
-date_end: '2022-10-28T15:00:00Z'
+date: '2023-04-11T13:00:00Z'
+date_end: '2023-04-13T15:00:00Z'
 
 
 ---
