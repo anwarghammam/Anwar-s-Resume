@@ -14,8 +14,8 @@ role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Oakland University
-    URL: https://www.oakland.edu/
+  - name: University of Michigan
+    URL:  https://umich.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include artificial intelligence, machine learning, web services, refactoring, data analytics, and software quality.  
@@ -34,7 +34,7 @@ interests:
 education:
   courses:
     - course: Ph.D. in Computer Science and Information
-      institution: Oakland University, Rochester, Michigan
+      institution: University of Michigan
       year: 2021
     - course: Masters in Software Engineering
       institution: Oakland University, Rochester, Michigan
@@ -75,13 +75,13 @@ social:
 #   link: uploads/AnwarGhammam.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'anwarghammam@oakland.edu'
+email: 'aghammam@umich.edu'
 
 # Highlight the author in author lists? (true/false)
  #here I wrihgt my papers bio
 highlight_name: true
 ---
 
-Anwar Ghammam is currently a Ph.D. candidate at Oakland University. Her Ph.D. project is concerned with applying intelligent software engineering and machine learning in different areas such as software containers, web services, refactoring, and mobile app reviews. Her research interests are AI, DL, Refactoring, Data Analytics, and Software Quality.  
+Anwar Ghammam is currently a Ph.D. candidate at the University of Michigan. Her Ph.D. project involves applying intelligent software engineering and machine learning in different areas such as software containers, web services, refactoring, and mobile app reviews. Her research interests are AI, DL, Refactoring, Data Analytics, and Software Quality.  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/AnwarGhammam.pdf" "newtab" >}}RESUME{{< /staticref >}}.
