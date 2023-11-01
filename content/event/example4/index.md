@@ -2,12 +2,12 @@
 title: NSF Industry-University Center on Pervasive AI event
 
 
-location: Colorado, USA
+location: Flint, USA
 
 address:
   
-  city: Boulder
-  region: Colorado
+  city: Flint
+  region: Michigan
   country: United States
 
 summary: The  NSF Industry-university Center on Pervasive AI event was held in Flint, Michigan organized by the University of Michigan, in collaboration with Oregon State University, Oakland University, and the University of Colorado, Boulder.
