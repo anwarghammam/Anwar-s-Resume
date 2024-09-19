@@ -28,7 +28,7 @@ feature:
     icon: "c"
     icon_pack: "custom"
     name: "C++"
-  - description: 40%
+  - description: 50%
     icon: database
     icon_pack: fas
     name: SQL & NoSQL
