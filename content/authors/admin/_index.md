@@ -56,7 +56,7 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=J4NPGMkAAAAJ&hl=en
   - icon: github
@@ -81,6 +81,6 @@ email: 'anwarghammam@oakland.edu'
 highlight_name: true
 ---
 
-Anwar Ghammam is a Ph.D. candidate at Oakland University. Her Ph.D. project involves applying intelligent software engineering and machine learning to different areas, such as software containers, software refactoring, and software quality. Her research interests include AI, DL, Software Refactoring, Data Analytics, and Software Quality.  
+Anwar Ghammam is a Ph.D. candidate at Oakland University. Her Ph.D. project involves applying intelligent software engineering and machine learning to different areas, such as containers, software refactoring, and software quality. Her research interests include AI, DL, Software Refactoring, Data Analytics, and Software Quality.  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/AnwarGhammam.pdf" "newtab" >}}RESUME{{< /staticref >}}.
