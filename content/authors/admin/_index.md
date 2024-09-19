@@ -14,29 +14,28 @@ role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Michigan
-    URL:  https://umich.edu/
+  - name: Oakland University
+    URL:  https://oakland.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include artificial intelligence, machine learning, web services, refactoring, data analytics, and software quality.  
+bio: My research interests include Artificial Intelligence, Machine Learning, Software Optimization, Software Refactoring, and software quality.  
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
   - Deep Learning
-  - Intelligent software engineering 
-  - Information Retrieval
+  - Intelligent Software Engineering
   - Multiobjective optimization
-  - Refactoring
+  - Sofware Refactoring
     
 
 # Education to show in About widget
 education:
   courses:
     - course: Ph.D. in Computer Science and Information
-      institution: University of Michigan
+      institution: Oakland University, Rochester, Michigan
       year: 2021
-    - course: Masters in Software Engineering
+    - course: Masters in Computer Science and Information
       institution: Oakland University, Rochester, Michigan
       year: 2021
     - course: BSc in Computer science
@@ -75,13 +74,13 @@ social:
 #   link: uploads/AnwarGhammam.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'aghammam@umich.edu'
+email: 'anwarghammam@oakland.edu'
 
 # Highlight the author in author lists? (true/false)
  #here I wrihgt my papers bio
 highlight_name: true
 ---
 
-Anwar Ghammam is currently a Ph.D. candidate at the University of Michigan. Her Ph.D. project involves applying intelligent software engineering and machine learning in different areas such as software containers, web services, refactoring, and mobile app reviews. Her research interests are AI, DL, Refactoring, Data Analytics, and Software Quality.  
+Anwar Ghammam is a Ph.D. candidate at Oakland University. Her Ph.D. project involves applying intelligent software engineering and machine learning to different areas, such as software containers, software refactoring, and software quality. Her research interests include AI, DL, Software Refactoring, Data Analytics, and Software Quality.  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/AnwarGhammam.pdf" "newtab" >}}RESUME{{< /staticref >}}.
