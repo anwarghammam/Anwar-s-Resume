@@ -32,11 +32,11 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Apply intelligent search and machine learning in different areas such as Software Containers, web services, refactoring, and software quality.
-        * Work under the supervision of Dr. Marouane Kessentini (kessentini@oakland.edu)
+        * Apply AI and ML in different areas such as Software Containers, Web Services, Software Refactoring, and Software Quality.
+        * Work under the supervision of Dr. Marouane Kessentini (Dean, College of Computing, Grand Valley State University)
 
 
-  - title: Graduate Student Instructor
+  - title: Instructor
     company: Oakland University
     company_url: 'oakland.edu'
     company_logo: oakland
@@ -45,8 +45,20 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        * Assist teachers with lesson preparation, curriculum implementation, teaching, and student mentoring.
+        * Teaching Graduate Courses (CSI 4150/5160 Integrated Computing Systems)
         * Teaching labs: Undergraduate: Software Engineering, Game Design, and Human-Computer Interaction (HCI).
+    
+  - title: Artificial Intelligence Intern
+    company: FORD Motor Company
+    company_url: 'ford.com'
+    company_logo: FORD
+    location: Michigan, USA
+    date_start: '2024-06-05'
+    date_end: '2024-26-07'
+    description: |2-
+        Responsibilities include:
+        * Working on a workshop manual assistant for FORD technicians using RAG.
+    
   - title: NSF Intern
     company: Instadeep
     company_url: 'instadeep.com'
