@@ -30,7 +30,7 @@ item:
     date_start: '2024-01-05'
     description: 'Our lab received NSF funds and I was selected to attend the National I-Corps NSF as an Entrepreneurial Lead'
     organization: NSF
-    organization_url: [https://new.nsf.gov/funding/initiatives/i-corps](https://www.nsf.gov/)
+    organization_url: https://www.nsf.gov/
     title: 'NSF I-Corps Program'
     url: ''
 
@@ -39,7 +39,7 @@ item:
     date_start: '2023-04-19'
     description: 'Received the Best Research Quality/Presentation Award'
     organization: Oakland University
-    organization_url: [https://oakland.edu](https://oakland.edu/)
+    organization_url: https://oakland.edu/      
     title: 'CSE Graduate Research Competition'
     url: ''
 
@@ -48,7 +48,7 @@ item:
     date_start: '2020-12-12'
     description: 'Reading: 21/30, Listening 22/30, Speaking: 25/30, Writing: 24/30'
     organization: ETS
-    organization_url: [https://www.ets.org](https://www.ets.org/)
+    organization_url: https://www.ets.org/
     title: 'TOEFL iBT: 92/120'
     url: 'uploads/toefl'
     
