@@ -25,7 +25,6 @@ date_format: Jan 2006
 
 
 item:
-
   - certificate_url: 'uploads/nsf.pdf'
     date_end: ''
     date_start: '2024-01-05'
@@ -41,7 +40,7 @@ item:
     description: 'Received the Best Research Quality/Presentation Award'
     organization: Oakland University
     organization_url: [https://oakland.edu](https://oakland.edu/)
-    title: '2022-2023 CSE Graduate Research Competition'
+    title: 'CSE Graduate Research Competition'
     url: ''
 
   - certificate_url: 'uploads/toefl.pdf'
