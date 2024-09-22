@@ -51,7 +51,7 @@ experience:
   - title: Artificial Intelligence Intern
     company: FORD Motor Company
     company_url: 'www.ford.com'
-    company_logo: oakland
+    company_logo: ford
     location: Michigan, USA
     date_start: '2024-06-05'
     date_end: '2024-07-26'
