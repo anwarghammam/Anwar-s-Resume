@@ -56,6 +56,7 @@ experience:
     date_start: '2024-06-05'
     date_end: '2024-07-26'
     description: |2-
+        Selected as a NSF Intern, fully funded by NSF and working with Instadeep.
         Responsibilities include:
         * Working on a workshop manual assistant for FORD technicians using RAG.
     
