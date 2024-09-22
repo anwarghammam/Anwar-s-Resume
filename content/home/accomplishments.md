@@ -27,7 +27,7 @@ date_format: Jan 2006
 item:
 
   - certificate_url: 'uploads/nsf.pdf'
-    date_end: '2024-03-22'
+    date_end: ''
     date_start: '2024-01-05'
     description: 'Our lab received NSF funds and I was selected to attend the National I-Corps NSF as an Entrepreneurial Lead'
     organization: NSF
