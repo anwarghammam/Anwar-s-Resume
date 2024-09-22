@@ -54,7 +54,7 @@ experience:
     company_logo: oakland
     location: Michigan, USA
     date_start: '2024-06-05'
-    date_end: '2024-26-07'
+    date_end: '2024-07-26'
     description: |2-
         Responsibilities include:
         * Working on a workshop manual assistant for FORD technicians using RAG.
