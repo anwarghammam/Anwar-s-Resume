@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Research Assistant
     company: Oakland University
-    company_url: 'oakland.edu'
+    company_url: 'www.oakland.edu'
     company_logo: oakland
     location: Rochester, Michigan, USA
     date_start: '2021-09-01'
@@ -38,7 +38,7 @@ experience:
 
   - title: Instructor
     company: Oakland University
-    company_url: 'oakland.edu'
+    company_url: 'www.oakland.edu'
     company_logo: oakland
     location: Rochester, Michigan, USA
     date_start: '2022-01-05'
@@ -50,7 +50,7 @@ experience:
 
   - title: Artificial Intelligence Intern
     company: FORD Motor Company
-    company_url: 'ford.com'
+    company_url: 'www.ford.com'
     company_logo: oakland
     location: Michigan, USA
     date_start: '2024-06-05'
@@ -61,7 +61,7 @@ experience:
     
   - title: NSF Intern
     company: Instadeep
-    company_url: 'instadeep.com'
+    company_url: 'www.instadeep.com'
     company_logo: Instadeep
     location: Boston, USA
     date_start: '2022-06-05'
