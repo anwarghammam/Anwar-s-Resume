@@ -48,17 +48,6 @@ experience:
         * Teaching Graduate Courses (CSI 4150/5160 Integrated Computing Systems)
         * Teaching labs: Undergraduate: Software Engineering, Game Design, and Human-Computer Interaction (HCI).
     
-  - title: Artificial Intelligence Intern
-    company: FORD Motor Company
-    company_url: 'ford.com'
-    company_logo: FORD
-    location: Michigan, USA
-    date_start: '2024-06-05'
-    date_end: '2024-26-07'
-    description: |2-
-        Responsibilities include:
-        * Working on a workshop manual assistant for FORD technicians using RAG.
-    
   - title: NSF Intern
     company: Instadeep
     company_url: 'instadeep.com'
@@ -68,7 +57,6 @@ experience:
     date_end: '2022-09-05'
     description: |2-
         Responsibilities include:
-        
         * Working on a multiobjective PCB grid using Reinforcement learning.
 
   - title: Research Assistant
