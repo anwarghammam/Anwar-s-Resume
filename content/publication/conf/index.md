@@ -1,17 +1,19 @@
 ---
 title: "Dynamic Software Containers Workload Balancing via Many-Objective Search"
 authors:
+- James Ivers
 - admin
-- Thiago Ferreira
--  Wajdi Aljedaani
+- Kouloud Gaaloul
+- Ipek Ozkaya
 -  Marouane Kessentini
+-  Wajdi Aljedaani
 
 
-date: "2022-12-31T00:00:00Z"
+date: "2024-07-31T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,10 +22,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE TRANSACTIONS ON SERVICES COMPUTING"
-publication_short: ""
+publication: "The International Conference on Software Maintenance and Evolution"
+publication_short: "ICSME"
 
-abstract: "Software containers are becoming the new state of the art in the industry as they are extensively used to deploy systems. Indeed, the use of containers enables better modularity, reusability, and portability compared to other technologies. As the complexity of software systems is dramatically increasing, it is critical to enable optimal usage of the needed resources to execute them such as memory and CPU. Thus, different scheduling strategies are proposed to select the most suitable nodes to execute a set of containers. For instance, the default strategy in the Docker Swarm kit scheduling framework is based on an equal distribution of the containers between nodes independent of their sizes and consumed resources. However, balancing the containers’ workload is a complex problem due to the conflicting objectives of minimizing the number of selected nodes, minimizing the number of containers per node, the number of changes compared to the original schedule, and the coupling between containers allocated to different nodes. To deal with those conflicting scheduling objectives, we propose a scheduler based on a many-objective optimization approach for scheduling the execution of containers between multiple nodes. The proposed approach aims at finding the best allocation for containers in nodes that leads to efficient utilization of resources. To evaluate our approach, we compared the performance of multiple many and multi-objective techniques based on NSGA-II, NSGA-III, and IBEA algorithms using 48 Docker-related systems and the results show that NSGA-III outperforms the other algorithms in quality attributes as well as in CPU, Memory and Network usage."
+abstract: ""
 
 
 # Summary. An optional shortened abstract.
@@ -36,9 +38,9 @@ featured: false
 # links:
 # - name: ""
 # url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: 
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://anwarghammam.github.io/ContainersSchedulingWebSite/'
+url_dataset: ''
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
