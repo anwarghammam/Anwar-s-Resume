@@ -3,15 +3,15 @@ title: "Dynamic Software Containers Workload Balancing via Many-Objective Search
 authors:
 - admin
 - Thiago Ferreira
--  Wajdi Aljedaani
--  Marouane Kessentini
+- Wajdi Aljedaani
+- Marouane Kessentini
 
 
 date: "2022-12-31T00:00:00Z"
-doi: ""
+doi: "10.1109/TSC.2023.3237755"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023/2/17T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 # url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.researchgate.net/profile/Wajdi-Aljedaani-2/publication/368619937_Dynamic_Software_Containers_Workload_Balancing_Via_Many-Objective_Search/links/6411b12f66f8522c38a87abf/Dynamic-Software-Containers-Workload-Balancing-Via-Many-Objective-Search.pdf
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: 'https://anwarghammam.github.io/ContainersSchedulingWebSite/'
 # url_poster: ''
