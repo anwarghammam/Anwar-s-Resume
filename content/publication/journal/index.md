@@ -1,17 +1,17 @@
 ---
-title: "Dynamic Software Containers Workload Balancing via Many-Objective Search"
+title: "Efficient Management of Containers for Software Defined Vehicles"
 authors:
 - admin
-- Thiago Ferreira
--  Wajdi Aljedaani
--  Marouane Kessentini
+- Rania khalsi
+- Marouane Kessentini
+- Foyzul Hassan
 
 
-date: "2022-12-31T00:00:00Z"
+date: "2024-05-13T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-07-09T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,10 +20,11 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE TRANSACTIONS ON SERVICES COMPUTING"
+publication: "ACM Transactions on Software Engineering and Methodology"
 publication_short: ""
 
-abstract: "Software containers are becoming the new state of the art in the industry as they are extensively used to deploy systems. Indeed, the use of containers enables better modularity, reusability, and portability compared to other technologies. As the complexity of software systems is dramatically increasing, it is critical to enable optimal usage of the needed resources to execute them such as memory and CPU. Thus, different scheduling strategies are proposed to select the most suitable nodes to execute a set of containers. For instance, the default strategy in the Docker Swarm kit scheduling framework is based on an equal distribution of the containers between nodes independent of their sizes and consumed resources. However, balancing the containers’ workload is a complex problem due to the conflicting objectives of minimizing the number of selected nodes, minimizing the number of containers per node, the number of changes compared to the original schedule, and the coupling between containers allocated to different nodes. To deal with those conflicting scheduling objectives, we propose a scheduler based on a many-objective optimization approach for scheduling the execution of containers between multiple nodes. The proposed approach aims at finding the best allocation for containers in nodes that leads to efficient utilization of resources. To evaluate our approach, we compared the performance of multiple many and multi-objective techniques based on NSGA-II, NSGA-III, and IBEA algorithms using 48 Docker-related systems and the results show that NSGA-III outperforms the other algorithms in quality attributes as well as in CPU, Memory and Network usage."
+abstract: "Containerization technology, such as Docker, is gaining in popularity in newly established software-defined vehicle architectures (SDVA). However, executing those containers can quickly become computationally expensive in constrained environments, given the limited CPU, memory, and energy resources in the Electric Control Units (ECU) of SDVA. Consequently, the efficient management of these containers is crucial for enabling the on-demand usage of the applications in the vehicle based on the available resources while considering several constraints and priorities, including failure tolerance, security, safety, and comfort.
+In this paper, we propose a dynamic software container management approach for constrained environments such as embedded devices/ECUs in SDVA within smart cars. To address the conflicting objectives and constraints within the vehicle, we design a novel search-based approach based on multi-objective optimization. This approach facilitates the allocation, movement, or suspension of containers between ECUs in the cluster. Collaborating with our industry partner, Ford Motor Company, we evaluate our approach using different real-world software-defined scenarios. These scenarios involve using heterogeneous clusters of ECU devices in vehicles based on real-world software containers and use-case studies from the automotive industry. The experimental results demonstrate that our scheduler outperforms existing scheduling algorithms, including the default Docker scheduler -Spread- commonly used in automotive applications. Our proposed scheduler exhibits superior performance in terms of energy and resource cost efficiency. Specifically, it achieves a 35% reduction in energy consumption in power-saving mode compared to the scheduler employed by Ford Motor Company. Additionally, our scheduler effectively distributes workload among the ECUs in the cluster, minimizing resource usage, and dynamically adjusts to the real-time requirements and constraints of the car environment. This work will serve as a fundamental building block in the automotive industry to efficiently manage software containers in smart vehicles considering constraints and priorities in the real world."
 
 
 # Summary. An optional shortened abstract.
@@ -36,9 +37,9 @@ featured: false
 # links:
 # - name: ""
 # url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3672461
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://anwarghammam.github.io/ContainersSchedulingWebSite/'
+url_dataset: 'https://sites.google.com/view/containerscheduling/'
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
