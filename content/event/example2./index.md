@@ -1,5 +1,7 @@
 ---
 title: NSF industry university Center on Pervasive AI event
+event:
+event_url: https://conf.researchr.org/home/ase-2022
 
 
 location: Portland, USA
