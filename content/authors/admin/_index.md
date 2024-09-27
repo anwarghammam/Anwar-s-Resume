@@ -4,7 +4,7 @@ title: Anwar Ghammam
 
 # Full name (for SEO)
 first_name: Anwar
-last_name: Ghammam
+last_name: Gh
 
 # Is this the primary user of the site?
 superuser: true
