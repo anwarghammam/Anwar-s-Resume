@@ -1,21 +1,33 @@
 ---
-title: NSF Industry-University Center on Pervasive AI event
+title: NSF industry university Center on Pervasive AI event
+event:
+event_url: https://conf.researchr.org/home/ase-2022
 
 
-location: Colorado, USA
+location: Colorado Boulder, USA
 
 address:
   
-  city: Boulder
-  region: Colorado
+  city: Portland
+  region: Oregan
   country: United States
 
-summary: The  NSF Industry-university Center on Pervasive AI event was held in Boulder, Colorado organized by the University of Colorado-Boulder, in collaboration with Oregon State University and Oakland University.
+summary: The  NSF industry university Center on Pervasive AI event was held at Portland, OR, USA organized by Orogeon State university in collaboration with CU Boulder university and Oakland University.
 
-abstract: It was an honor to attend the NSF Industry-University Center on Pervasive AI's industry advisory board event in Colorado, where I had the opportunity to present my research work entitled Context-based Refactoring, About the Relation between Context and Refactoring. To more achievements! Watch My 1mn pitch! [![Watch the video]](https://youtu.be/eNbrB_KoMGg)
 
-date: '2023-04-11T8:00:00Z'
-date_end: '2023-04-12T15:00:00Z'
+abstract: It was an honor to attend the NSF Industry University Center on Pervasive AI s industry advisory board event in Portland, where I had the opportunity to present my research work on Dynamic Software Containers Workload Balancing via Many-Objective Search. I was honored to receive the most industry ready research award among a lot of great projects presented by CU Boulder university, Orogeon State university and Oakland University. To more achievements ! Watch My 1mn pitch! 
+
+
+
+
+date: '2023-04-26T13:00:00Z'
+date_end: '2023-04-28T15:00:00Z'
 
 
 ---
+
+
+
+
+
+

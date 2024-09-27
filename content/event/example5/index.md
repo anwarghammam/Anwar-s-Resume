@@ -4,13 +4,13 @@ event:
 event_url: https://conf.researchr.org/home/ase-2022
 
 
-location: Portland, USA
+location:  Lisbon, Portugal
 
 address:
   
-  city: Portland
-  region: Oregan
-  country: United States
+  city: Lisbon
+  region: Lisbon
+  country: Portugal
 
 summary: The  NSF industry university Center on Pervasive AI event was held at Portland, OR, USA organized by Orogeon State university in collaboration with CU Boulder university and Oakland University.
 
