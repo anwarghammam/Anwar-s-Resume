@@ -4,12 +4,12 @@ event:
 event_url: https://conf.researchr.org/home/ase-2022
 
 
-location: Colorado Boulder, USA
+location: Colorado, Boulder, USA
 
 address:
   
-  city: Portland
-  region: Oregan
+  city: Boulder
+  region: Colorado
   country: United States
 
 summary: The  NSF industry university Center on Pervasive AI event was held at Portland, OR, USA organized by Orogeon State university in collaboration with CU Boulder university and Oakland University.
