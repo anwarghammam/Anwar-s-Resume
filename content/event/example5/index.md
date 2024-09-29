@@ -7,9 +7,7 @@ event_url: https://conf.researchr.org/home/icse-2024
 location:  Lisbon, Portugal
 
 address:
-  
   city: Lisbon
-  region: Lisbon
   country: Portugal
 
 summary: Attending ICSE 2024 was an incredible opportunity to present our accepted paper, From Boring to Boarding: Transforming Refactoring Education with Game-Based Learning. The experience allowed me to showcase an innovative approach to refactoring education, making it more engaging and accessible through interactive, game-based methods. Presenting at such a prestigious conference provided invaluable exposure, enabling me to connect with leading experts in software engineering. 
