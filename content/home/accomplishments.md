@@ -28,7 +28,7 @@ item:
   - certificate_url: 'uploads/nsf.pdf'
     date_end: ''
     date_start: '2024-01-05'
-    description: 'Our lab received NSF funds and I was selected to attend the National I-Corps NSF as an Entrepreneurial Lead'
+    description: 'Our lab received NSF funds and I was selected to attend the National NSF I-Corps training as an Entrepreneurial Lead'
     organization: NSF
     organization_url: https://www.nsf.gov/
     title: 'NSF I-Corps Program'
