@@ -1,7 +1,7 @@
 ---
 title: ICSE 2024
 event: ICSE 2024
-event_url: [https://conf.researchr.org/home/icse-2024](https://conf.researchr.org/home/icse-2024)
+event_url: https://conf.researchr.org/home/icse-2024
 
 
 location:  Lisbon, Portugal
