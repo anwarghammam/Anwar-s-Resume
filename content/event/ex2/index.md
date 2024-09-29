@@ -1,5 +1,5 @@
 ---
-title: NSF Industry-University Center on Pervasive AI event
+title: NSF Industry-University Center on Pervasive AI event (PPI 2022)
 event: PPI 2022
 
 
