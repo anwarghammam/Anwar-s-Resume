@@ -1,7 +1,7 @@
 ---
-title: NSF Industry University Center on Pervasive AI event
+title: NSF Industry-University Center on Pervasive AI event
 event:
-event_url: https://youtu.be/eNbrB_KoMGg
+event_url: https://www.ppicenter.org/
 
 
 location: Colorado, Boulder, USA
@@ -14,7 +14,7 @@ address:
 
 summary: The  NSF Industry University Center on Pervasive AI event was held in Portland, OR, USA organized by Oregon State University in collaboration with CU Boulder University and Oakland University.
 
-abstract: It was an honor to attend the NSF Industry-University Center on Pervasive AI's industry advisory board event in Portland, where I had the opportunity to present my research work on Dynamic Software Containers Workload Balancing via Many-Objective Search. I was honored to receive the most industry-ready research award among many great projects presented by CU Boulder University, Oregon State University, and Oakland University. To more achievements! Watch My 1mn pitch! (Watch My 1mn pitch! [![Watch the video](./ane.jpg)](https://youtu.be/InJrm7rC9S4))
+abstract: It was an honor to attend the NSF Industry-University Center on Pervasive AI's industry advisory board event in Portland, where I had the opportunity to present my research work on Context-based Refactoring, about the relation between Context and refactorings. Watch My 1mn pitch! [![Watch the video](./ane.jpeg)](https://youtu.be/InJrm7rC9S4)
 
 
 
