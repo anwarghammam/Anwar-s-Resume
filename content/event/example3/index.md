@@ -1,7 +1,7 @@
 ---
 title: NSF Industry University Center on Pervasive AI event
 event:
-event_url: [https://conf.researchr.org/home/ase-2022](https://youtu.be/eNbrB_KoMGg)
+event_url: https://youtu.be/eNbrB_KoMGg
 
 
 location: Colorado, Boulder, USA
